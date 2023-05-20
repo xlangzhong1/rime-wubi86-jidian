@@ -1,7 +1,8 @@
 var:
-  last_build_time: 1683960807
+  last_build_time: 1684598282
   option:
     simplification: true
-  previously_selected_schema: wubi86_jidian_pinyin
+  previously_selected_schema: wubi86_jidian
   schema_access_time:
+    wubi86_jidian: 1683981742
     wubi86_jidian_pinyin: 1683960452
